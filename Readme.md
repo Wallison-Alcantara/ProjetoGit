@@ -1,1 +1,1 @@
-Olá esse porjeto ensina você a usar o Git
+Olá esse projeto ensina você a usar o Git
